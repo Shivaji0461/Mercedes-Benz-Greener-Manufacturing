@@ -17,4 +17,3 @@ You are required to reduce the time that cars spend on the test bench. Others wi
   - Apply label encoder.
   - Perform dimensionality reduction.
   - Predict your test_df values using XGBoost.
-  Find the datasets here.
